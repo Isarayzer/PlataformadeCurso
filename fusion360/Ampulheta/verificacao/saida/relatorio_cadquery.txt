@@ -1,0 +1,23 @@
+=== Verificação geométrica (CadQuery/OpenCASCADE) ===
+Corpo_Ampulheta  valido=True  solidos=1  shells=1  volume=29.09 cm3  bbox X[-27.50, 27.50] Z[-79.50, 79.50]
+Tampa_Superior   valido=True  solidos=1  shells=1  volume=8.77 cm3  bbox X[-24.00, 24.00] Z[70.50, 82.50]
+Tampa_Inferior   valido=True  solidos=1  shells=1  volume=8.77 cm3  bbox X[-24.00, 24.00] Z[-82.50, -70.50]
+Interferência corpo x Tampa_Superior: 0.000000 mm3
+Interferência corpo x Tampa_Inferior: 0.000000 mm3
+Pontos do eixo bloqueados (de 1001): 0
+Altura total montada: 165.000 mm
+Diâmetro máximo do corpo: 55.000 mm
+Folga mínima medida corpo x Tampa_Superior (zona da rosca): 0.212 mm
+Folga mínima medida corpo x Tampa_Inferior (zona da rosca): 0.212 mm
+Espessura reservatório (funil/esfera/ombro): min 1.200  max 2.377 mm
+Diâmetro externo da cintura: 6.40 mm
+Corpo_Ampulheta  malha: watertight=True  winding_consistente=True  corpos=1  euler=0
+Tampa_Superior   malha: watertight=True  winding_consistente=True  corpos=1  euler=2
+Tampa_Inferior   malha: watertight=True  winding_consistente=True  corpos=1  euler=2
+Corpo_Ampulheta  overhang < 45 graus da horizontal (precisa suporte): 4.57 mm2; pior ângulo: 35.8 graus
+    regiões: r 20.0..20.9 mm, z -78.5..78.9 mm
+Tampa_Superior   overhang < 45 graus da horizontal (precisa suporte): 0.56 mm2; pior ângulo: 41.0 graus
+    regiões: r 21.2..21.2 mm, z -77.2..-70.5 mm
+Tampa_Inferior   overhang < 45 graus da horizontal (precisa suporte): 0.56 mm2; pior ângulo: 41.0 graus
+    regiões: r 21.2..21.2 mm, z -77.2..-70.5 mm
+Corte salvo em /tmp/claude-0/-home-user-PlataformadeCurso/9f614e69-1dc0-5c30-aa3c-e5be0755ea00/scratchpad/out/section_analysis_XZ.png

@@ -1,0 +1,10 @@
+{
+	"autodeskProduct": "Fusion360",
+	"type": "script",
+	"author": "",
+	"description": {
+		"": "Ampulheta parametrica (165 x 55 mm) para impressao FDM em PETG: corpo translucido, duas tampas rosqueaveis com O-ring e gargalo parametrico."
+	},
+	"supportedOS": "windows|mac",
+	"editEnabled": true
+}
